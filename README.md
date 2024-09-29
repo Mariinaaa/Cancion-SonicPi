@@ -1,4 +1,4 @@
-# Canci-n-SonicPi-Marina-y-Cristina
+# Canción SonicPi Marina y Cristina
 - Pequeña descripción:
   Archivo README.MD, archivo canción SonicPi y powerpoint(pdf)
 
