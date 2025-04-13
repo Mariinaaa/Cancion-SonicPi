@@ -1,18 +1,52 @@
-# Canción SonicPi Marina y Cristina
-- Pequeña descripción:
-  Archivo README.MD, archivo canción SonicPi y powerpoint(pdf)
+# Proyecto de Canción en SonicPi
 
-- Qué hace el proyecto:
-  Hemos creado un proyecto que trataba de hacer una canción en SonicPi en nuestro caso es de estilo techno con un empieza un poco más tranquilo y a medida que pasa     el tiempo se va combiertiendo en algo mucho más movido y bailable.
+## 🎵 Descripción
 
-- Por qué el proyecto es útil:
-  Este proyecto es útil ya que se utiliza para aprender a programar una canción y en vivo porque una vez hecha la puedes ir modificando sobre la marcha cmabiandole     sonidos, volumenes, añadiendole nuevos loops, ...
+Este proyecto incluye:
 
-- Cómo pueden comenzar los usuarios con el proyecto:
-  Para empezar con el proyecto hay que descargarse SonicPi y nuestro archivo, una vez esta eso solo hay que darle a reproducir y disfrutar de la música.
+- Archivo `README.md`
+- Archivo de canción para SonicPi (`.rb`)
+- Presentación en PowerPoint (`.pdf`)
 
-- Quién contribuye con el proyecto:
-  Este proyecto esta realizado por Cristina Barandiará y Marina Amaya
+## 🚀 ¿Qué hace el proyecto?
 
-- Detalles:
-  Hemos ido viendo tutoriales, videos de canciones y de sesiones de live coding y hemos ido cogiendo ideas de todos los lados, por ejemplo la intro es uan parte de     la página oficial de SonicPi y otra inventada cambiando frecuencias.
+Hemos creado una canción de estilo *techno* en **SonicPi**.  
+La canción comienza con un ritmo más tranquilo e introduce progresivamente sonidos más potentes, volviéndose más animada y bailable a medida que avanza.
+
+## 💡 ¿Por qué es útil este proyecto?
+
+Este proyecto es útil para:
+
+- **Aprender programación musical**: Enseña a programar una canción usando SonicPi.
+- **Explorar el live coding**: Permite modificar la música en tiempo real, cambiando sonidos, volúmenes y añadiendo nuevos loops mientras suena.
+
+Es una herramienta divertida para aprender lógica de programación aplicada a la música electrónica.
+
+## 🛠️ ¿Cómo empezar?
+
+1. **Descargar e instalar SonicPi**:
+   - [Descargar SonicPi](https://sonic-pi.net/)
+
+2. **Descargar nuestros archivos** del repositorio.
+
+3. **Abrir el archivo de la canción en SonicPi**.
+
+4. **Reproducir y disfrutar**.
+   - Puedes modificar en vivo la canción cambiando sonidos, volúmenes y añadiendo nuevos elementos.
+
+## 👥 Contribuidores
+
+- **Cristina Barandiarán**
+- **Marina Amaya**
+
+## 📚 Detalles adicionales
+
+Durante la creación de la canción:
+
+- Consultamos tutoriales, videos de canciones y sesiones de *live coding*.
+- Nos inspiramos en varias fuentes, incluyendo la página oficial de SonicPi.
+- La introducción de nuestra canción combina una parte tomada de un ejemplo oficial con una parte inventada, modificando frecuencias para darle nuestro toque personal.
+
+---
+
+¡Esperamos que disfrutes tanto escuchándola como nosotras programándola! 🎶✨
